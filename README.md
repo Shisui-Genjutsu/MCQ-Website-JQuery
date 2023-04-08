@@ -11,7 +11,7 @@
 
 <p>
 MCQ Website using HTML, CSS, Bootstarp, JavaScript and jQuery
-This application has HTML pages , CSS and JQuery files
+This application has HTML pages , CSS and JQuery, AJAX files
 This application is my 4th year 1st sem assignment it only contains frontend
 </p>
 
