@@ -19,3 +19,5 @@ This application is my 4th year 1st sem assignment it only contains frontend
 <li>This project based on CDN Links there no need for installations</li>
 <li>All CDN Links attached to index.hmtl inside head tag and script tags</li>
   
+<br/>###Thankyou for viiting my github###<br/>
+@BhaskarGuthula
