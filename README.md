@@ -1,8 +1,7 @@
 <h1 align="center">MCQ Website</h1>
 <p align="center">
 <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="MIT LicenSe"></a>
-<a href="[LICENSE](https://github.com/Shisui-Genjutsu/MCQ-Website-JQuery)"><img src="https://img.shields.io/github/repo-size/Shisui-Genjutsu/MCQ-Website-JQuery" alt="MIT LicenSe"></a>
-<a href="[LICENSE](https://github.com/Shisui-Genjutsu/MCQ-Website-JQuery)"><img src="https://img.shields.io/github/directory-file-count/Shisui-Genjutsu/MCQ-Website-JQuery" alt="MIT LicenSe"></a>
+<a href="[LICENSE](https://github.com/Shisui-Genjutsu/MCQ-Website-JQuery)"><img src="https://img.shields.io/github/directory-file-count/Shisui-Genjutsu/MCQ-Website-JQuery" alt="files"></a>
 </p>
 
 <h3>#Demo Work Screenshots:</h3>
